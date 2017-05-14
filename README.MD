@@ -1,2 +1,2 @@
-###     BoofCV Android Optimized Tracker  ###
-This branch holds the code for a native version of the BoofCV tracker. 
+###     AndroHPC  ###
+This repository houses code for an all-in-one project integrating all the native frameworks available on Android. This repository is still being cleaned up and refactored, so please check back again after a few weeks for a complete high performance development environment for Android! 
